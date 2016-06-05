@@ -1,0 +1,19 @@
+# NAME
+
+PerlCommandPattern - Example of GoF Command Pattern in Perl for undo/redo feature
+
+# VERSION
+
+version 1.161570
+
+# AUTHOR
+
+Philip Steiner <philip@psteiner.com>
+
+# COPYRIGHT AND LICENSE
+
+This software is Copyright (c) 2016 by Philip Steiner.
+
+This is free software, licensed under:
+
+    The MIT (X11) License
